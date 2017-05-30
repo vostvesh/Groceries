@@ -9,6 +9,6 @@ npm-debug.log
 hooks/
 lib/
 node_modules/
-platforms/
+/platforms/
 tmp/
 typings/
