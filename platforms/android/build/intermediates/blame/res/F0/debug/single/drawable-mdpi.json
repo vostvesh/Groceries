@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\apple.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\apple.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\menu.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\menu.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\checked_white.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\checked_white.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\add.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\add.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\logo_signup.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\logo_signup.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\pear.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\pear.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\banana.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\banana.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\unchecked_white.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\unchecked_white.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\delete.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\delete.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\selected.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\selected.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\recent.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\recent.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\nonselected.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\nonselected.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\unchecked.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\unchecked.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\checked.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\checked.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\icon.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\logo_login.png",
+        "source": "E:\\PROGRAM PROJECTS\\LEARN\\JS\\2017\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\logo_login.png"
+    }
+]
