@@ -4,7 +4,6 @@ npm-debug.log
 *.js.map
 *.metadata.json
 app/**/*.js
-app/*.js
 npm-debug.log
 
 hooks/
