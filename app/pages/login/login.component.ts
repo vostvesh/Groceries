@@ -21,8 +21,8 @@ export class LoginComponent implements OnInit {
 
   constructor(private router: Router, private userService: UserService, private page: Page) {
     this.user = new User();
-    this.user.email = 'pppooopppaaa@pop.pop';
-    this.user.password = 'qqq';
+    this.user.email = 'user@nativescript.org';
+    this.user.password = 'password';
   }
 
   ngOnInit() {
@@ -65,6 +65,10 @@ export class LoginComponent implements OnInit {
     container.animate({
       backgroundColor: this.isLoggingIn ? new Color('white') : new Color('#301217'),
       duration: 200
+    });
+    container.animate({
+      translate: this.isLoggingIn ? { x: 0, y: 0 } : { x: 0, y: -40 },
+      duration: 500
     });
   }
 }

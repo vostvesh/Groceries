@@ -11,3 +11,8 @@
 TextField {
   color: white;
 }
+.mybtn {
+  width: 20;
+  height: 20;
+  border: 1 solid #000;
+}
